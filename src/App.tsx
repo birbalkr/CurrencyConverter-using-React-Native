@@ -47,6 +47,7 @@ const App = (): JSX.Element => {
         text: "NOt a valid number to convert",
         backgroundColor: "#F4BE2C",
         textColor: "#000000"
+        
       })
     }
   }
